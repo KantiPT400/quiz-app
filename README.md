@@ -27,23 +27,23 @@ It allows users to take a quiz, answer timed questions, and instantly view their
 cd backend
 npm install
 node server.js
-2️⃣ Frontend
+### 2️⃣ Frontend
 cd frontend
 npm install
 npm run dev
 
 
-Frontend: http://localhost:8080
+###Frontend: http://localhost:8080
 
-Backend API: http://localhost:5000
+###Backend API: http://localhost:5000
 
-🧩 Folder Structure
+## 🧩 Folder Structure
 quiz-app/
 ├── backend/        # Node.js + Express + SQLite
 ├── frontend/       # React + Vite + TailwindCSS
 ├── README.md       # Main project documentation
 
-🧠 Author
+## 🧠 Author
 
 C. Kanti Prasoona
 GitHub: KantiPT400
